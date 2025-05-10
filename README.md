@@ -15,5 +15,5 @@
 python -m unittest discover -s tests  # All tests passing!
 
 ## 🎥 Demo  
-![How it works](assets/demo.gif)  
+![How it works](https://i.imgur.com/1xlCnlT.gif))  
 *Try it yourself with python predict.py "Your text"*
