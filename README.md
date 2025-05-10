@@ -1,13 +1,15 @@
-# 🔍 AI Phishing Email Detector
+# 🔍 AI Phishing Detector  
+> "Identify phishing emails with [98.5%] accuracy using [Random Forest]"  
 
-ML model that detects phishing emails with *98.5% accuracy* using Scikit-Learn.
+![Python](https://img.shields.io/badge/Python-[3.8]+-blue)  
+![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-[1.3.0]-green)  
+![Tests](https://img.shields.io/badge/Tests-Passing-brightgreen)  
 
-## 🚀 Features
-- Trained on 5,000+ real emails
-- TF-IDF text vectorization
-- Random Forest classifier
+## 🚀 Features  
+- Trained on 5,000+ emails  
+- [TF-IDF] text vectorization  
+- Unit tested (accuracy ≥ [95%])  
 
-## 🧪 Testing Results
+## 🧪 Testing  
 ```bash
-python -m unittest discover -s tests"# AI-Phishing-Detector" 
-"# AI-Phishing-Detector" 
+python -m unittest discover -s tests  # All tests passing!
